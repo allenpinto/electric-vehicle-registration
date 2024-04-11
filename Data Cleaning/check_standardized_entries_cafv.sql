@@ -1,0 +1,2 @@
+SELECT DISTINCT(Clean_Alternative_Fuel_Vehicle__CAFV__Eligibility)
+FROM `portfolio-project-419816.electric_vehicle.population`
